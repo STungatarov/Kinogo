@@ -6,6 +6,7 @@
     left: 0;
     display: none;
     padding: 0 40px;
+    z-index: 2;
 }
 .mobile-footer__menu {
     list-style: none;

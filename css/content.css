@@ -227,10 +227,6 @@
 .content__product-stars > li:first-child {
     margin-left: 0;
 }
-.content__product-stars > li:hover {
-    color: #EF8F12;
-}
-
 /* Content Inner */
 .content__inner {
     width: 100%;
